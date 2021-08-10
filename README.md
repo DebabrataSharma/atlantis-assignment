@@ -26,6 +26,7 @@
 
 ### Note:
    Check interface variable in config.py. This can different value(eg:- wlan0). 
+   Must be root to connect to wifi. Install the wifi package in root.
 
 ## Run the program:
     Install python 3.x.
